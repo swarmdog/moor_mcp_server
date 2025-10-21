@@ -61,6 +61,10 @@ Notes:
 - The image sets `MCP_HOST=0.0.0.0` and `MCP_PORT=8085` so the server binds externally.
 - Override args if needed, e.g.: `docker run ... moor-mcp-server run --host 0.0.0.0 --port 8085`.
 
+## Assistant configuration hint
+
+<img width="1342" height="956" alt="image" src="https://github.com/user-attachments/assets/add05636-8f56-4efd-969a-b6c2ce4420af" />
+
 ## Tools (selection)
 - `moor_connect_auth`, `moor_eval_expr`
 - `moor_resolve_object`, `moor_create_object`
