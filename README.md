@@ -12,6 +12,8 @@ Repo for mooR (LambdaMOO server): https://github.com/rdaum/moor
 
 When using with an assistant such as Cursor, AugmentCode, you can provide multiple sets of MOO credentials via agents.md or similar, allowing the assistant to switch between wizard/programmer/player for testing.
 
+<img width="1468" height="1042" alt="moormcp" src="https://github.com/user-attachments/assets/027ef0f9-5d36-45ae-b957-6b4eb35a8a9b" />
+
 ## Requirements
 - Python 3.10+
 - Docker (optional)
